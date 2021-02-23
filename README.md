@@ -31,10 +31,10 @@ python3 main.py
 
 ## Contribution
 
-First fork the repo as shown below:
+Fork the repo as shown below:
 
 <img src="./forking.png">
 
-[Learn more about forking](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+[Learn more about forking.](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 
 [Learn more about contribution.](https://github.com/MarcDiethelm/contributing/blob/master/README.md)
