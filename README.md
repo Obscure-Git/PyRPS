@@ -12,4 +12,5 @@ Suggest me improvements or inform me about issues in the issues tab.
 - [Math](https://docs.python.org/3/library/math.html)
 
 [random.choice()](https://docs.python.org/3/library/random.html#random.choice) has been used from the "Random" module.
+
 [math.ceil()](https://docs.python.org/3/library/math.html#math.ceil) has been used from the "Math" module.
